@@ -1,0 +1,18 @@
+MVT - Model -- {Views -- Templates} -- urls.py
+-----------------------------------
+Plan Templates
+Plan Views and Models (Tables)
+Plan forms
+-----------------------------------
+Make Project
+Make App
+Set settings.py: 
+	Make templates folder - TEMPLATE_DIR = os.path... + DIR[TEMPLATE_DIR] 
+	Make static folder - STATIC_DIR = os.path... + STATIC_FILES[STATIC_DIR]
+	add app to installed_apps + models to installed_apps
+Make basic templates
+Make Views for logic + Make Models also
+**RUN MIGRATIONS AFTER MODELS
+Make forms
+Make urls.py - Add all views + form_views in urls.py
+
